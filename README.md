@@ -21,7 +21,7 @@
 | Unit 1 | [Автоэнкодеры](https://github.com/sswt/dive2gai/tree/main/unit1)   | <ul><li>AE, VAE from scratch</li><li>ELBO 🤓</li></ul> | 2023-08-31 |
 | Unit 2 | [Генеративные состязательные сети](https://github.com/sswt/dive2gai/tree/main/unit2)   | <ul><li>GAN, DCGAN, DCCGAN from scratch</li><li>Dive into GAN 🤓</li><li>WGAN, CycleGAN</li></ul> | 2023-09-14 |
 | Unit 3 | [Потоковые генеративные модели](https://github.com/sswt/dive2gai/tree/main/unit3) | <ul><li>[Flow-based generative models](https://github.com/sswt/dive2gai/tree/main/unit3/NormalizingFlowsIntro.ipynb)</li><li>[Dive to Normalizing Flows🤓](https://github.com/sswt/dive2gai/tree/main/unit3/DiveToNF.ipynb)</li><li>Continious Normalizing Flow</li></ul> | 2023-09-28 |
-| Unit 4 | Генерация последовательностей | <ul><li>RNN, LSTM</li><li>SeqGAN</li><li>LeakGAN</li></ul> | 2023-10-05 |
+| Unit 4 | [Генерация последовательностей](https://github.com/sswt/dive2gai/tree/main/unit1) | <ul><li>RNN, LSTM</li><li>Professor forcing🤓</li><li>SeqGAN</li><li>LeakGAN</li></ul> | 2023-10-05 |
 | Unit 5 | Трансформеры, механизм внимания | <ul><li>Attention is all you need</li><li>Self-attention, transformers</li><li>T5, GPT</li></ul> | 2023-10-19 |
 | Unit 6 | Диффузные модели | <ul><li>Denoising Diffusion Models</li><li>Fine-Tuning and Guidance</li><li>Stable Diffusion</li></ul> | 2023-11-02 |
 | Unit 7 | Метрики качества генерации |  |  |
