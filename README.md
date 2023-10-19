@@ -22,13 +22,16 @@
 | Unit 2 | [Генеративные состязательные сети](https://github.com/sswt/dive2gai/tree/main/unit2)   | <ul><li>GAN, DCGAN, DCCGAN from scratch</li><li>Dive into GAN 🤓</li><li>WGAN, CycleGAN</li></ul> | 2023-09-14 |
 | Unit 3 | [Потоковые генеративные модели](https://github.com/sswt/dive2gai/tree/main/unit3) | <ul><li>[Flow-based generative models](https://github.com/sswt/dive2gai/tree/main/unit3/NormalizingFlowsIntro.ipynb)</li><li>[Dive to Normalizing Flows🤓🤓](https://github.com/sswt/dive2gai/tree/main/unit3/DiveToNF.ipynb)</li><li>Continious Normalizing Flow</li></ul> | 2023-09-28 |
 | Unit 4 | [Генерация последовательностей](https://github.com/sswt/dive2gai/tree/main/unit4) | <ul><li>RNN, LSTM</li><li>Professor forcing🤓</li><li>SeqGAN</li><li>LeakGAN</li></ul> | 2023-10-05 |
-| Unit 5 | Трансформеры, механизм внимания | <ul><li>Attention is all you need</li><li>Self-attention, transformers</li><li>T5, GPT</li></ul> | 2023-10-19 |
-| Unit 6 | Диффузные модели | <ul><li>Denoising Diffusion Models</li><li>Fine-Tuning and Guidance</li><li>Stable Diffusion</li></ul> | 2023-11-02 |
-| Unit 7 | Метрики качества генерации |  |  |
-| Unit 8 | Reinforcement learning для генеративных моделей |  |  |
-| Unit 9 | Energy-based models |  |  |
-| Unit 10 | Мультимодальные генеративные модели |  |  |
-| Unit 11 | Self-supervised learning |  |  |
+| Unit 5 | Трансформеры, механизм внимания | <ul><li>Attention, transformers, GPT</li><li>LORA</li></ul> | 2023-10-26 |
+| Unit 6 | Диффузные модели | <ul><li>Denoising Diffusion Models</li><li>Fine-Tuning and Guidance</li><li>Stable Diffusion</li></ul> | 2023-11-09 |
+| Unit 7 | Метрики качества генерации | <ul><li>CV</li><li>NLP</li></ul> | 2023-11-23 |
+| Unit 8 | Energy-based models |  | 2023-11-30 |
+| Unit 9 | Генерация табличных данных | <ul><li>TVAE, CTGAN</li><li>DoppelGANger</li><li>TimeGAN</li></ul> | 2023-12-07 |
+| Unit 10 | Мультимодальные генеративные модели |  | 2023-12-21 |
+| Unit 11 | Self-supervised learning |  | TBA |
+| Unit 12 | Закат трансформеров |  | TBA |
+| Unit 13 | Непрерывные нормализующие потоки |  | TBA |
+
 
 Готовые короткие курсы по теме:
 
