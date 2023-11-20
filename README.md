@@ -23,11 +23,11 @@
 | Unit 3 | [Потоковые генеративные модели](https://github.com/sswt/dive2gai/tree/main/unit3) | <ul><li>[Flow-based generative models](https://github.com/sswt/dive2gai/tree/main/unit3/NormalizingFlowsIntro.ipynb)</li><li>[Dive to Normalizing Flows🤓🤓](https://github.com/sswt/dive2gai/tree/main/unit3/DiveToNF.ipynb)</li></ul> | 2023-09-28 |
 | Unit 4 | [Генерация последовательностей](https://github.com/sswt/dive2gai/tree/main/unit4) | <ul><li>RNN, LSTM</li><li>Professor forcing🤓</li><li>SeqGAN</li><li>LeakGAN</li></ul> | 2023-10-05 |
 | Unit 5 | [Трансформеры, механизм внимания](https://github.com/sswt/dive2gai/tree/main/unit5) | <ul><li>Attention, transformers, GPT</li><li>Llama, quantization, fine-tuning</li></ul> | 2023-10-26 |
-| Unit 6 | Диффузные модели | <ul><li>Denoising Diffusion Models</li><li>Stable Diffusion</li></ul> | 2023-11-09 |
-| Unit 7 | Метрики качества генерации | <ul><li>CV</li><li>NLP</li></ul> | 2023-11-23 |
-| Unit 8 | Energy-based models |  | 2023-11-30 |
-| Unit 9 | Генерация табличных данных | <ul><li>TVAE, CTGAN</li><li>DoppelGANger</li><li>TimeGAN</li></ul> | 2023-12-07 |
-| Unit 10 | Мультимодальные генеративные модели |  | 2023-12-21 |
+| Unit 6 | Диффузные модели | <ul><li>Denoising Diffusion Models</li><li>Fine-Tuning and Guidance</li><li>Stable Diffusion</li></ul> | 2023-11-16 |
+| Unit 7 | Метрики качества генерации | <ul><li>CV</li><li>NLP</li></ul> | 2023-11-30 |
+| Unit 8 | Energy-based models |  | 2023-12-07 |
+| Unit 9 | Генерация табличных данных | <ul><li>TVAE, CTGAN</li><li>DoppelGANger</li><li>TimeGAN</li></ul> | 2023-12-14 |
+| Unit 10 | Мультимодальные генеративные модели |  | TBA |
 | Unit 11 | Self-supervised learning |  | TBA |
 | Unit 12 | Закат трансформеров |  | TBA |
 | Unit 13 | Непрерывные нормализующие потоки | <ul><li>Continious Normalizing Flows</li></ul> | TBA |
