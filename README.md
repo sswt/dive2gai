@@ -25,12 +25,13 @@
 | Unit 5 | [Трансформеры, механизм внимания](https://github.com/sswt/dive2gai/tree/main/unit5) | <ul><li>Attention, transformers, GPT</li><li>Llama, quantization, fine-tuning</li></ul> | 2023-10-26 |
 | Unit 6 | [Диффузные модели](https://github.com/sswt/dive2gai/tree/main/unit6) | <ul><li>Denoising Diffusion Models</li><li>Latent Diffusion Models</li></ul> | 2023-11-16 |
 | Unit 7 | [Метрики качества генерации](https://github.com/sswt/dive2gai/tree/main/unit7) | <ul><li>CV</li><li>NLP</li></ul> | 2023-12-07 |
-| Unit 8 | [Energy-based models](https://github.com/sswt/dive2gai/tree/main/unit8) |  | 2023-12-14 |
+| Unit 8 | [Energy-based models](https://github.com/sswt/dive2gai/tree/main/unit8) | <ul><li>Deep Energy Based Models</li><li>Your models are secretly EBMs</li></ul> | 2023-12-14 |
 | Unit 9 | [Генерация табличных данных](https://github.com/sswt/dive2gai/tree/main/unit9) | <ul><li>TVAE, CTGAN</li><li>TabDDPM, TabuLa</li></ul> | 2024-01-11 |
-| Unit 10 | Мультимодальные генеративные модели |  | 2024-02-02 |
-| Unit 11 | Закат трансформеров |  | 2024-02-16 |
-| Unit 12 | Непрерывные нормализующие потоки | <ul><li>Continious Normalizing Flows</li></ul> | 2024-03-01 |
-| Unit 13 | Self-supervised learning |  | TBA |
+| Unit 10 | Мультимодальные генеративные модели |  | 2024-02-15 |
+| Unit 11 | Закат трансформеров |  | 2024-03-07 |
+| Unit 12 | Непрерывные нормализующие потоки | <ul><li>Continious Normalizing Flows</li></ul> | 2024-03-14 |
+| Unit 13 | Генерация табличных временных рядов | | 2023-03-21 |
+| Unit 14 | Self-supervised learning |  | TBA |
 
 Готовые короткие курсы по теме:
 
