@@ -27,10 +27,10 @@
 | Unit 7 | [Метрики качества генерации](https://github.com/sswt/dive2gai/tree/main/unit7) | <ul><li>CV</li><li>NLP</li></ul> | 2023-12-07 |
 | Unit 8 | [Energy-based models](https://github.com/sswt/dive2gai/tree/main/unit8) | <ul><li>Deep Energy Based Models</li><li>Your models are secretly EBMs</li></ul> | 2023-12-14 |
 | Unit 9 | [Генерация табличных данных](https://github.com/sswt/dive2gai/tree/main/unit9) | <ul><li>TVAE, CTGAN</li><li>TabDDPM, TabuLa</li></ul> | 2024-01-11 |
-| Unit 10 | Мультимодальные генеративные модели |  | 2024-02-15 |
-| Unit 11 | Закат трансформеров |  | 2024-03-07 |
-| Unit 12 | Непрерывные нормализующие потоки | <ul><li>Continious Normalizing Flows</li></ul> | 2024-03-14 |
-| Unit 13 | Генерация табличных временных рядов | | 2023-03-21 |
+| Unit 10 | Мультимодальные генеративные модели | [Обзор эволюции мультимодальных моделей](https://github.com/sswt/dive2gai/tree/main/unit10)  | 2024-02-15 |
+| Unit 11 | Закат трансформеров |  | 2024-03-28 |
+| Unit 12 | [Непрерывные нормализующие потоки](https://github.com/sswt/dive2gai/tree/main/unit12) | <ul><li>Continious Normalizing Flows</li><li>Neural ODE & SDE models</li></ul> | 2024-03-14 |
+| Unit 13 | Генерация табличных временных рядов | | 2023-04-04 |
 | Unit 14 | Self-supervised learning |  | TBA |
 
 Готовые короткие курсы по теме:
